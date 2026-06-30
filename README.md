@@ -142,7 +142,7 @@ Citadel/
 ---
 
 ## Rental Confirmation
-<img src="Screenshots/Rental Comfirmation.png" width="1000">
+<img src="Screenshots/Rental Confirmation.png" width="1000">
 
 ---
 
