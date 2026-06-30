@@ -20,8 +20,8 @@ EXCEL_PATH.parent.mkdir(exist_ok=True)
 # ── Email — read from env vars, fall back to defaults you can edit ────────────
 SMTP_HOST     = "smtp.gmail.com"
 SMTP_PORT     = 587
-SMTP_USER     = os.environ.get("SMTP_USER", "hustlers.bay11@gmail.com")      # ← or edit
-SMTP_PASS     = os.environ.get("SMTP_PASS", "rwdj lxga czwp wwdv")    # ← or edit
+SMTP_USER     = os.environ.get("SMTP_USER", "Your-Mail@gmail.com")      # ← edit
+SMTP_PASS     = os.environ.get("SMTP_PASS", "xxxx xxxx xxxx xxxx")    # ← edit
 LIBRARY_NAME  = "Citadel"
 LIBRARY_ADDR  = "The Citadel, Honeywine River District, Oldtown, The Reach, Westeros"
 LIBRARIAN_TEL = "Send Raven to Tower 4"
