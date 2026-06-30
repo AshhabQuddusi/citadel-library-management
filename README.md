@@ -136,6 +136,16 @@ Citadel/
 
 ---
 
+## Rent Page
+<img src="Screenshots/Rent Page.png" width="1000">
+
+---
+
+## Rental Confirmation
+<img src="Screenshots/Rental Comfirmation.png" width="1000">
+
+---
+
 ## Installation
 
 Clone repository:
