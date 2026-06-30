@@ -149,27 +149,28 @@ Citadel/
 
 ## 📧 Email Confirmation
 <p align="center">
-  <img src="Comfirmation Mail.png" width="1000">
+  <img src="Screenshots/Comfirmation Mail.png" width="1000">
 </p>
 
 ---
 
 ## 📘 Rent Page
 <p align="center">
-  <img src="screenshots/Rent Page.png" width="1000">
+  <img src="Screenshots/Rent Page.png" width="1000">
 </p>
 
 ---
 
 ## 📩 Rental Confirmation
-<p align="center">Rental Confirmation.png" width="1000">
+<p align="center">
+  <img src="Screenshots/Rental Confirmation.png" width="1000">
 </p>
 
 ---
 
 ## 🚀 Installation
 
-Clone repository:
+Clone Repository:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/citadel-library-management.git
