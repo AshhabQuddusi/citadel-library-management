@@ -1,4 +1,4 @@
-<p align="center">
+<h align="center">
   # Citadel — The Library Management System
 
 <p align="center">
