@@ -121,49 +121,48 @@ Citadel/
 
 ## 🏠 Homepage
 <p align="center">
-  <img src="screenshots/home.png" width="1000">
+  <img src="screenshots/Home.png" width="1000">
 </p>
 
 ---
 
 ## 📚 Book Catalogue
 <p align="center">
-  <img src="screenshots/book-catalog.png" width="1000">
+  <img src="screenshots/Book Catalog.png" width="1000">
 </p>
 
 ---
 
 ## 🪪 Library Card Registration
 <p align="center">
-  <img src="screenshots/library-card-login.png" width="700">
+  <img src="screenshots/Library Card Login.png" width="700">
 </p>
 
 ---
 
 ## ✅ Card Issued Successfully
 <p align="center">
-  <img src="screenshots/card-issue-confirmation.png" width="700">
+  <img src="screenshots/Card Issue Confirmation.png" width="700">
 </p>
 
 ---
 
 ## 📧 Email Confirmation
 <p align="center">
-  <img src="screenshots/confirmation-mail.png" width="1000">
+  <img src="Comfirmation Mail.png" width="1000">
 </p>
 
 ---
 
 ## 📘 Rent Page
 <p align="center">
-  <img src="screenshots/rent-page.png" width="1000">
+  <img src="screenshots/Rent Page.png" width="1000">
 </p>
 
 ---
 
 ## 📩 Rental Confirmation
-<p align="center">
-  <img src="screenshots/rental-confirmation.png" width="1000">
+<p align="center">Rental Confirmation.png" width="1000">
 </p>
 
 ---
@@ -176,7 +175,7 @@ Clone repository:
 git clone https://github.com/YOUR_USERNAME/citadel-library-management.git
 ```
 
-Move into project directory:
+Move into the project directory:
 
 ```bash
 cd citadel-library-management
