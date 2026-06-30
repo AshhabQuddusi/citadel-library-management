@@ -1,4 +1,4 @@
-# Citadel — Fantasy-Themed Library Management System
+# Citadel — The Library Management System
 
 <p align="center">
   <b>Where Stories Come Alive</b>
