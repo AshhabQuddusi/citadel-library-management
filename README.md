@@ -16,7 +16,7 @@ Citadel is a modern web-based Library Management System designed to transform tr
 
 Inspired by the ancient archives of The Citadel in Oldtown, the platform combines elegant UI design with practical functionality for book discovery, borrowing, and member management.
 
-Unlike traditional academic projects focused only on CRUD operations, Citadel emphasizes both **system functionality** and **user experience**.
+Unlike traditional academic projects that focus solely on CRUD operations, Citadel emphasises both **system functionality** and **user experience**.
 
 ---
 
@@ -25,14 +25,13 @@ Unlike traditional academic projects focused only on CRUD operations, Citadel em
 ### Book Discovery
 - Browse 100+ books
 - Search by title or author
-- Filter by categories
-- Sort collections
-- View book availability status
+- Filter by category
+- View availability status
 
 ### Library Membership
 - Register for a library card
-- Automatic card number generation
-- Unique member IDs
+- Automatic unique card number generation
+- Digital card issuance
 
 Example:
 ```text
@@ -42,21 +41,24 @@ CLB-2026-1001
 ### Borrowing System
 - Issue books
 - Return books
-- Track checked-out books
-- Availability indicators
+- Track borrowed books
+- Rental history
+- Due date tracking
 
-### Email Integration
-- Automatic email confirmation
-- Sends card details to member email
-- Includes pickup instructions
+### Smart Email Notification System
+Automated emails are sent for:
 
-### UI / UX Features
-- Warm aesthetic design
-- Fantasy-themed branding
-- Smooth modal interactions
-- Responsive layout
-- Premium visual identity
+- Library card issuance confirmation
+- Book rental confirmation
+- Due date reminder notifications
+- Overdue alerts after the due date
+- Pickup instructions and card details
 
+### UI / UX
+- Fantasy-themed interface
+- Warm premium aesthetic
+- Responsive design
+- Smooth animations
 ---
 
 ## Tech Stack
@@ -109,27 +111,27 @@ Citadel/
 # Screenshots
 
 ## Homepage
-<img src="screenshots/home.png" width="1000">
+<img src="screenshots/Home.png" width="1000">
 
 ---
 
-## Book Catalog
-<img src="screenshots/books.png" width="1000">
+## Book Catalogue
+<img src="screenshots/Book Catalog.png" width="1000">
 
 ---
 
 ## Library Card Registration
-<img src="screenshots/card-form.png" width="700">
+<img src="screenshots/Library Card Login.png" width="700">
 
 ---
 
 ## Card Issued Successfully
-<img src="screenshots/card-issued.png" width="700">
+<img src="screenshots/Card Issue Confirmation.png" width="700">
 
 ---
 
 ## Email Confirmation
-<img src="screenshots/email-confirmation.png" width="1000">
+<img src="screenshots/Comfirmation Mail.png" width="1000">
 
 ---
 
